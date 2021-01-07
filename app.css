@@ -1,0 +1,82 @@
+body
+{
+    background:url("https://images.unsplash.com/photo-1562386130-926081dc4fbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1955&q=80");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:1600px 900px;
+}
+#navbar_custom
+{
+    background-color:rgba(255,255,255, 0.9);
+    color:black;
+    border-radius:0px;
+    border-width:0px;
+}
+#navbar_logo
+{
+    color:black;
+    font-style:bold;
+}
+#sign_in_jumbotron
+{
+    vertical-align: middle;
+    align-items:center;
+    width:70%;
+    height:600px;
+    text-align:center;
+    padding-top:4%;
+    padding-right:20px;
+    padding-left:20px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:rgba(255,255,255, 0.95);
+    border-width:0px;
+    border-radius:30px;
+    /* box-shadow: 3px 3px 5px grey; */
+    color:#606060;
+    font-size:30px;
+}
+#line_1
+{
+    margin-left:30%;
+    margin-right:30%;
+    background-color:white;
+    border-color:white;
+    border-width:3px;
+    border-radius:100px;
+}
+#button_sign_up
+{
+    width:40%;
+    background-color:#267EFF;
+    border-width:0px;
+    border-radius:7px;
+}
+#input_name
+{
+    background-color:#ffffff;
+    border-width:2px;
+    border-color:#267EFF;
+    border-style:solid;
+    border-radius:100px;
+}
+#input_num
+{
+    background-color:#ffffff;
+    border-width:2px;
+    border-color:#267EFF;
+    border-style:solid;
+    border-radius:100px;
+}
+#button_process
+{
+    width:25%;
+    height:7%;
+    background-color:#267EFF;
+    border-width:0px;
+    border-radius:7px;
+}
+#answer
+{
+    opacity: 0%;
+}
